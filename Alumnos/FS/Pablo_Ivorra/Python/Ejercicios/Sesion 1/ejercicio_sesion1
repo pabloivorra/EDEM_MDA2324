@@ -5,6 +5,12 @@ print("¡Hola, Mundo!")
 nombre = "Pablo"
 
 print("¡Hola, " + nombre + "!")
+=======
+print(f"Hello World!")
+name= "Pablo"
+lastname="Ivorra"
+print(f"Hola {name} {lastname}!")
+
 
 
 
