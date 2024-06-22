@@ -1,0 +1,12 @@
+creation_timestamp: 1719048073007
+current_stage: None
+description: ''
+last_updated_timestamp: 1719048073007
+name: random_forest_model
+run_id: 50dce8d7a494474a8fa002eb9721ad21
+run_link: ''
+source: ./mlruns/542914916141703577/50dce8d7a494474a8fa002eb9721ad21/artifacts/random_forest_model
+status: READY
+status_message: null
+user_id: null
+version: 1

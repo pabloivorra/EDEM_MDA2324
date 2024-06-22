@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/542914916141703577/c239e257b2e84a6aa537a57d0ed8d79f/artifacts
+end_time: 1719048478790
+entry_point_name: ''
+experiment_id: '542914916141703577'
+lifecycle_stage: active
+run_id: c239e257b2e84a6aa537a57d0ed8d79f
+run_name: optuna-hp-76-2024-06-22-11-27-58
+run_uuid: c239e257b2e84a6aa537a57d0ed8d79f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719048478677
+status: 3
+tags: []
+user_id: paulglobal
